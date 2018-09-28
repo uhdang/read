@@ -1,6 +1,9 @@
-Date:
-Title:
-Category:
+# Title:
 
-Content:
+## Category:
+
+## ReadDate:
+## PublishDate:
+
+## Content:
 
