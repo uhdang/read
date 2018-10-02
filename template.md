@@ -1,9 +1,7 @@
 # Title:
 
 ## Category:
-
-## ReadDate:
-## PublishDate:
+## Where From:
 
 ## Content:
 

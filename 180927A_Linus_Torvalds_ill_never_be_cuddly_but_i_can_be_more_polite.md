@@ -1,9 +1,7 @@
 # Title: Linus Torvalds: 'I'll never be cuddly but I can be more polite'
 
 ## Category: Person + Tech
-
-## ReadDate: 2018.09.27
-## PublishDate: 2018.09.27
+## Where From: 
 
 ## Content:
 
